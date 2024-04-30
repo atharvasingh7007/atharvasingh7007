@@ -1,5 +1,5 @@
 # 💫 About Me:
-1. Building and learning the ropes of full stack development.<br>2. Eagerly diving into backend while mastering frontend.<br>3. Seeking challenges to hone my full stack skills.<br>4. Contributing to projects, while constantly learning.<br>5. Helping bridge the gap between frontend and backend.<br>6. Here to assist with frontend challenges and beyond.<br>7. Ask me about web development tips and tricks!<br>8. Fun fact: I once built a website in under 24 hours and take a proper 8 hours of sleep.
+ 1. Building and learning the ropes of full stack development.<br>2. Eagerly diving into backend while mastering frontend.<br>3. Seeking challenges to hone my full stack skills.<br>4. Contributing to projects, while constantly learning.<br>5. Helping bridge the gap between frontend and backend.<br>6. Here to assist with frontend challenges and beyond.<br>7. Ask me about web development tips and tricks!<br>8. Fun fact: I once built a website in under 24 hours and take a proper 8 hours of sleep.
 
 
 # 💻 Tech Stack:
